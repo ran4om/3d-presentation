@@ -1,13 +1,13 @@
-# UNCO 3D accounting presentation
+# 3D presentation
 
-[Download the presentation package](https://github.com/ran4om/unco-3d-presentation/releases/latest)
+[Download the presentation package](https://github.com/ran4om/3d-presentation/releases/latest)
 
 
 An animated accounting presentation about low-value assets and fixed assets, with 26 content slides and 50 embedded camera-transition clips.
 
 ## Download and open
 
-Extract the ZIP completely. Open UNCO_LowValue_FixedAssets_3D_EN.pptx in desktop Microsoft PowerPoint for Windows and start the slide show with F5. The videos are embedded in the presentation.
+Extract the ZIP completely. Open 3D_Presentation.pptx in desktop Microsoft PowerPoint for Windows and start the slide show with F5. The videos are embedded in the presentation.
 
 ## Navigate the 3D tour
 
